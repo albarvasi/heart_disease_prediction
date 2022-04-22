@@ -24,6 +24,13 @@ The project implemented performs prediction based on the below features -
 — Value 3: down-sloping
 - ca: number of major vessels (0–3) colored by fluoroscope
 - thal: 3 = normal; 6 = fixed defect; 7 = reversible defect
-Logistic Regression, Random Forest Classifier and Gradient Boosting Classifier are the algorithms that have been implemented, from which Random Forest Classifier provides the best accuracy.
+
+
+
+Logistic Regression, Random Forest Classifier and Gradient Boosting Classifier are the algorithms that have been implemented, from which Random Forest Classifier
+provides the best accuracy.
+
+
+
 We have implemented the final model using Random Forest Classifier.
 Tkinter model of python is used for implementing the GUI of the project.
