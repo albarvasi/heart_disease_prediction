@@ -32,5 +32,5 @@ provides the best accuracy.
 
 
 
-We have implemented the final model using Random Forest Classifier.
-Tkinter model of python is used for implementing the GUI of the project.
+The final prediction model is implemented using Random Forest Classifier.
+Tkinter module of python is used for implementing the GUI of the project.
